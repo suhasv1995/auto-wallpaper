@@ -1,0 +1,23 @@
+{
+  "name": "auto-wallpaper",
+  "version": "1.0.0",
+  "description": "Download wallpapers from Alpha Clock and create an executable to automatically change wallpaper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suhasv1995/auto-wallpaper.git"
+  },
+  "author": "Suhas V",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/suhasv1995/auto-wallpaper/issues"
+  },
+  "homepage": "https://github.com/suhasv1995/auto-wallpaper#readme",
+  "dependencies": {
+    "adm-zip": "^0.4.16",
+    "isomorphic-fetch": "^2.2.1"
+  }
+}
